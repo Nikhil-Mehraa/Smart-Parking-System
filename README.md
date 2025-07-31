@@ -1,6 +1,6 @@
-# Parking Slot Reservation & Analytics System
+# Smart parking System
 
-A real-time parking slot management application built with React, Express, and Socket.IO. It allows users to view, reserve parking slots for specific dates and times, and displays analytics on bookings and revenue.
+A real-time smart parking management application built with React, Express, and Socket.IO. It allows users to view, reserve parking slots for specific dates and times, and displays analytics on bookings and revenue.
 
 ## Features
 
@@ -58,7 +58,11 @@ The backend runs on `http://localhost:4000`.
 
 ## Screenshots
 
-*(Add screenshot images of your app's UI here if available)*
+<img width="1467" height="874" alt="image" src="https://github.com/user-attachments/assets/7261f303-dbd6-4ccc-8380-8b098014761f" />
+<img width="1463" height="873" alt="image" src="https://github.com/user-attachments/assets/af194a5b-c625-4e8f-ab93-07d0e53cef89" />
+<img width="1470" height="875" alt="image" src="https://github.com/user-attachments/assets/97742831-f62c-4b29-968e-9a9220e61eb6" />
+
+
 
 ## Future Improvements
 
