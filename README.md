@@ -23,15 +23,16 @@ A real-time smart parking management application built with React, Express, and 
 ### Backend
 
 1. Navigate to the backend directory (if separated):
-2. Install dependencies:
-3. Start the backend server:
+2. Install dependencies using command :  npm install
+3. Start the backend server using command - npm start
 The backend runs on `http://localhost:4000`.
 
 ### Frontend
 
 1. Navigate to the frontend directory (if separated):
-2. Install dependencies:
-3. The frontend runs on `http://localhost:3000`.
+2. Install dependencies using command : npm install
+3. Start the frontend server using command - npm start
+4. The frontend runs on `http://localhost:3000`.
 
 ## Usage
 
